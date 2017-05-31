@@ -1,3 +1,4 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 # 第一章 绪论 习题
 
 **警告⚠️：本文档仅作为个人练习记录，抄袭者将自行承担学术不端风险。**
