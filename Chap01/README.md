@@ -1,10 +1,8 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-
 # 第一章 绪论 习题
 
 **警告⚠️：本文档仅作为个人练习记录，抄袭者将自行承担学术不端风险。**
 
-
+本文中公式需要Mathjax渲染，GitHub官方网站并不支持（安全原因），你可以通过安装[这个chrome插件](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)来在自己的浏览器上阅读，或直接下载本文件后在其他支持Mathjax的Markdown编辑器中渲染。
 
 ## 1.1 
 
