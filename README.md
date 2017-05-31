@@ -14,6 +14,7 @@
 
 - 《机器学习》章节后的练习
 - 《机器学习实战》
+- Kaggle Competitions
 
 ## Schedule
 
