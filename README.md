@@ -2,7 +2,7 @@
 
 ## Updates
 
-2017-6-12 Create [Wiki](https://github.com/xiaozhenliu/machine-learning-practices/wiki)
+2017-6-12 开设[Wiki](https://github.com/xiaozhenliu/machine-learning-practices/wiki)，关于共同学习社群的各种资料都会整理在其中
 2017-5-31 开设[”啃西瓜”小密圈](http://t.xiaomiquan.com/uNvNBi6)，用于共同研读周志华于2016年出版的《机器学习》一书。
 
 ## Philosophy
@@ -10,33 +10,3 @@
 《机器学习》是一本入门级教材，其使用方法可见周志华老师自己撰写的[《如何使用本书》](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)一文。
 
 一千个读者就有一千个《哈姆雷特》。尽管这本书是教材，对于每个读者而言，功用也可能千差万别。作为一名初学者，主要希望通过此书初窥门径，学习机器学习的知识体系和基本原理。在练习部分，将注重具体知识的小规模应用而非综合问题解决。
-
-## Resources
-
-- 《机器学习》章节后的练习
-- 《机器学习实战》
-- Kaggle Competitions
-
-## Schedule
-
-|日期|章节|页码|练习编号|
-|----|----|----|----|
-|**Week 1**|
-|2017-6-1 Thu|1.1-1.3|pp.1-5|Ex1.1, Ex1.2|
-|2017-6-2 Fri|1.4    |pp.6-9|Ex1.3, Ex1.4|
-|2017-6-3 Sat|1.5-1.6|pp.10-16|Ex1.5|
-|2017-6-4 Sun|1.7|pp.16-18|-|
-|**Week 2**|
-|2017-6-5 Mon|2.1-2.2|pp.23-28|Ex2.1, Ex2.2|
-|2017-6-6 Tue|2.3    |pp.29-36|Ex2.3-2.7|
-|2017-6-7 Wed|2.4    |pp.37-44|Ex2.8-2.10|
-|2017-6-8 Thu|2.5-2.6|pp.44-47|[Kaggle Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/poolmoon/wb-breast-cancer-diagnostics)|
-|2017-6-9 Fri|[Kaggle Iris Data Set](https://www.kaggle.com/poolmoon/wb-iris-classification?scriptVersionId=1227514)|
-|2017-6-10 Sat|3.1-3.2|pp.53-57|Ex3.1|
-|2017-6-11 Sun|3.3-3.4|pp.58-63|Ex3.2-3.6|
-|**Week 3**|
-|2017-6-12 Mon|3.5-3.7|pp.63-68|Ex3.7-3.10|
-|2017-6-13 Tue|4.1-4.2|pp.73-79|Ex4.1|
-|2017-6-14 Wed|4.3|pp.79-83|Ex4.2|
-|2017-6-15 Thu|4.4|pp.83-88|Ex4.3-4.6|
-|2017-6-16 Fri|4.5-4.6|pp.88-92|Ex4.7-4.10|
