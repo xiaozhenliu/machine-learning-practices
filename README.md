@@ -2,8 +2,8 @@
 
 ## Updates
 
-2017-6-12 开设[Wiki](https://github.com/xiaozhenliu/machine-learning-practices/wiki)，关于共同学习社群的各种资料都会整理在其中
-2017-5-31 开设[”啃西瓜”小密圈](http://t.xiaomiquan.com/uNvNBi6)，用于共同研读周志华于2016年出版的《机器学习》一书。
+- 2017-6-12 开设[Wiki](https://github.com/xiaozhenliu/machine-learning-practices/wiki)，关于共同学习社群的各种资料都会整理在其中
+- 2017-5-31 开设[”啃西瓜”小密圈](http://t.xiaomiquan.com/uNvNBi6)，用于共同研读周志华于2016年出版的《机器学习》一书。
 
 ## Philosophy
 
